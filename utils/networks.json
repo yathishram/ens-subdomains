@@ -1,0 +1,20 @@
+{
+  "localhost": {
+    "chainId": 31337,
+    "addresses": {
+      "Samudai": ""
+    }
+  },
+  "mainnet": {
+    "chainId": 1,
+    "addresses": {
+      "Samudai": "0xfFAeF3F8A37014B932334D283f90a2408Eba0328"
+    }
+  },
+  "goerli": {
+    "chainId": 5,
+    "addresses": {
+      "Samudai": "0x125ff9e0F79371C67512A002d7890aF2aD9CeA09"
+    }
+  }
+}
